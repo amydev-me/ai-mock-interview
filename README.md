@@ -1,13 +1,16 @@
 # 🎯 Smart Interview Prep AI
 
-![AI Interview Prep Demo](https://i.imgur.com/your_demo_gif_or_image.gif) 
-*(Replace with a GIF/screenshot of your app in action! This is CRUCIAL.)*
-
 ## 🚀 Project Overview
 
 The **Smart Interview Prep AI** is an innovative, multi-agent artificial intelligence application designed to revolutionize job interview preparation. Leveraging cutting-edge AI frameworks and a modular architecture, this tool provides a personalized, interactive, and intelligent platform for candidates to hone their interviewing skills.
 
 This project showcases a deep understanding of advanced AI agent design, natural language processing, and full-stack application development, making it a compelling addition to any technical portfolio.
+
+## AI Interview Prep Demo
+![Generate a ](https://github.com/user-attachments/assets/0f2d5881-52b3-49cb-902b-9886a3abf1bf)
+![screencapture-ai-mock-interview-djmefowxyfzgnhusptmvin-streamlit-app-2025-06-30-10_41_24](https://github.com/user-attachments/assets/d0fe481a-057d-470e-83ab-30059b41f49f)
+![screencapture-ai-mock-interview-djmefowxyfzgnhusptmvin-streamlit-app-2025-06-30-10_42_20](https://github.com/user-attachments/assets/32e75c3e-b1ac-412e-b380-e954947f0f21)
+![screencapture-ai-mock-interview-djmefowxyfzgnhusptmvin-streamlit-app-2025-06-30-10_42_36](https://github.com/user-attachments/assets/ebe6fadf-d55f-408d-a1a2-b159497250fd)
 
 ## ✨ Key Features & Why They Impress Recruiters
 
