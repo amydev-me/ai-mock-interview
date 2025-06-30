@@ -95,11 +95,7 @@ Follow these steps to set up and run the Smart Interview Prep AI on your machine
 
 ## 🤝 Contribution
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details. *(You might want to add a `LICENSE` file if you don't have one)*
+Contributions are welcome! Feel free to open issues or submit pull requests. 
 
 ## 📧 Contact
 *   **LinkedIn:** https://www.linkedin.com/in/amydev/
