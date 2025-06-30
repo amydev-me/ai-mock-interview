@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+.idea/
+pip-log.txt
+pip-delete-this-arg.txt
+
+# Streamlit specific
+.streamlit/
+# If Streamlit is saving user specific data
+# You might have a .streamlit folder which is local to your machine.
+
+# Generated data files (crucial for your project)
+data/
+# This is important! The 'data/' directory is where your generated
+# research, questions, and interview sessions are stored.
+# You generally DO NOT want to commit these dynamic, user-specific files to Git.
+# If you ever want to include some *sample* data for others to quickly run the app,
+# you would create a separate 'sample_data/' folder and commit that instead.
+
+# IDE and Editor files
+.vscode/        # VS Code
+.idea/          # PyCharm/IntelliJ
+*.iml           # PyCharm/IntelliJ
+*.sublime-project
+*.sublime-workspace
+.DS_Store       # macOS generated files
+Thumbs.db       # Windows generated files
+
+# Operating System files
+.directory
+
+# Virtual environment, ensure it's ignored regardless of name
+*.bak
+*.tmp
+*.swp
+*~
+.#*
+
+# Log files
+*.log
